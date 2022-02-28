@@ -1,6 +1,3 @@
-# Using a compact OS
-# ARG BASEIMAGE
-
 FROM "ubuntu16.04"
 
 #RUN sed -i 's/dl-cdn.alpinelinux.org/mirrors.aliyun.com/g' /etc/apk/repositories
